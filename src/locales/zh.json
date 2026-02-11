@@ -1,0 +1,110 @@
+{
+  "common": {
+    "home": "首页",
+    "talentTraining": "人才培养",
+    "enterpriseServices": "企业服务",
+    "languageServices": "语言服务",
+    "digitalServices": "数智服务",
+    "financialServices": "财务服务",
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出登录",
+    "search": "搜索",
+    "submit": "提交",
+    "reset": "重置",
+    "contactUs": "联系我们",
+    "aboutUs": "关于我们"
+  },
+  "home": {
+    "title": "中阿跨境电商服务平台",
+    "subtitle": "语言+数智+财务+风控 一站式解决方案",
+    "description": "解决中阿贸易中的语言壁垒、财务合规、智能风控、数据驱动决策等核心痛点",
+    "features": "核心功能",
+    "talentTraining": "人才培养",
+    "talentTrainingDesc": "构建中阿跨境电商复合型人才培养体系",
+    "enterpriseServices": "企业服务",
+    "enterpriseServicesDesc": "提供全方位的企业服务解决方案",
+    "languageServices": "语言服务",
+    "languageServicesDesc": "专业的中阿双语翻译与本地化服务",
+    "digitalServices": "数智服务",
+    "digitalServicesDesc": "大数据分析与智能风控解决方案",
+    "financialServices": "财务服务",
+    "financialServicesDesc": "跨境支付与税务合规服务",
+    "latestNews": "最新资讯",
+    "successCases": "成功案例"
+  },
+  "talentTraining": {
+    "title": "人才培养",
+    "courses": "课程分类",
+    "trainings": "培训项目",
+    "learningManagement": "学习管理",
+    "internship": "实习就业",
+    "languageCourses": "语言类课程",
+    "ecommerceCourses": "电商类课程",
+    "financeCourses": "财务类课程",
+    "riskCourses": "风控类课程"
+  },
+  "enterpriseServices": {
+    "title": "企业服务",
+    "talentRecruitment": "人才招聘",
+    "businessConsulting": "业务咨询",
+    "projectMatching": "项目对接",
+    "services": "服务项目",
+    "requirements": "需求发布",
+    "recruitment": "招聘信息"
+  },
+  "languageServices": {
+    "title": "语言服务",
+    "translation": "翻译服务",
+    "localization": "本地化服务",
+    "verification": "语言验证",
+    "textTranslation": "文本翻译",
+    "documentTranslation": "文档翻译",
+    "websiteLocalization": "网站本地化",
+    "simultaneousInterpretation": "同声传译"
+  },
+  "digitalServices": {
+    "title": "数智服务",
+    "dataAnalysis": "数据分析",
+    "riskControl": "智能风控",
+    "supplyChain": "供应链管理",
+    "marketAnalysis": "市场趋势分析",
+    "salesAnalysis": "销售数据挖掘",
+    "riskAssessment": "信用风险评估",
+    "fraudDetection": "欺诈检测预警"
+  },
+  "financialServices": {
+    "title": "财务服务",
+    "crossBorderPayment": "跨境支付",
+    "taxCompliance": "税务合规",
+    "financialAccounting": "财务核算",
+    "financing": "融资服务",
+    "multiCurrency": "多币种支付",
+    "exchangeRate": "汇率风险管理",
+    "taxPlanning": "税收筹划方案",
+    "financialReports": "跨境财务报表"
+  },
+  "login": {
+    "title": "用户登录",
+    "username": "用户名",
+    "password": "密码",
+    "rememberMe": "记住我",
+    "forgotPassword": "忘记密码?",
+    "noAccount": "没有账号? 立即注册",
+    "loginButton": "登录"
+  },
+  "register": {
+    "title": "用户注册",
+    "username": "用户名",
+    "email": "邮箱",
+    "phone": "手机号",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "userType": "用户类型",
+    "individual": "个人用户",
+    "enterprise": "企业用户",
+    "institution": "教育机构",
+    "haveAccount": "已有账号? 立即登录",
+    "registerButton": "注册"
+  }
+}

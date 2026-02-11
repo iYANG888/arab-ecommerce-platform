@@ -1,0 +1,110 @@
+{
+  "common": {
+    "home": "الصفحة الرئيسية",
+    "talentTraining": "تدريب الكوادر",
+    "enterpriseServices": "خدمات الشركات",
+    "languageServices": "خدمات اللغة",
+    "digitalServices": "خدمات الرقمية",
+    "financialServices": "خدمات مالية",
+    "login": "تسجيل الدخول",
+    "register": "التسجيل",
+    "logout": "تسجيل الخروج",
+    "search": "بحث",
+    "submit": "إرسال",
+    "reset": "إعادة تعيين",
+    "contactUs": "اتصل بنا",
+    "aboutUs": "معلومات عنا"
+  },
+  "home": {
+    "title": "منصة الخدمات التجارية عبر الحدود الصينية العربية",
+    "subtitle": "حلول شاملة لغوية + رقمية + مالية + تحكم مخاطر",
+    "description": "حل المشاكل الأساسية في التجارة بين الصين والعرب مثل الحواجز اللغوية، الامتثال المالي، التحكم الذكي في المخاطر، والقرارات المستندة إلى البيانات",
+    "features": "الميزات الرئيسية",
+    "talentTraining": "تدريب الكوادر",
+    "talentTrainingDesc": "بناء نظام تدريب كوادر متعددة الجنسيات للتجارة الإلكترونية عبر الحدود بين الصين والعرب",
+    "enterpriseServices": "خدمات الشركات",
+    "enterpriseServicesDesc": "تقديم حلول خدمية شاملة للشركات",
+    "languageServices": "خدمات اللغة",
+    "languageServicesDesc": "خدمات ترجمة وتبسيط احترافية بين اللغات الصينية والعربية",
+    "digitalServices": "خدمات الرقمية",
+    "digitalServicesDesc": "حلول تحليل البيانات الضخمة والتحكم الذكي في المخاطر",
+    "financialServices": "خدمات مالية",
+    "financialServicesDesc": "خدمات الدفع عبر الحدود والامتثال الضريبي",
+    "latestNews": "أحدث الأخبار",
+    "successCases": "حالات النجاح"
+  },
+  "talentTraining": {
+    "title": "تدريب الكوادر",
+    "courses": "فئات الدورات",
+    "trainings": "مشاريع التدريب",
+    "learningManagement": "إدارة التعلم",
+    "internship": "تدريب وظيفي",
+    "languageCourses": "دورات لغوية",
+    "ecommerceCourses": "دورات تجارة إلكترونية",
+    "financeCourses": "دورات مالية",
+    "riskCourses": "دورات تحكم مخاطر"
+  },
+  "enterpriseServices": {
+    "title": "خدمات الشركات",
+    "talentRecruitment": "التوظيف",
+    "businessConsulting": "استشارات إدارية",
+    "projectMatching": "تركيب المشاريع",
+    "services": "مشاريع الخدمات",
+    "requirements": "نشر المتطلبات",
+    "recruitment": "معلومات التوظيف"
+  },
+  "languageServices": {
+    "title": "خدمات اللغة",
+    "translation": "الترجمة",
+    "localization": "التطبيع المحلي",
+    "verification": "التحقق اللغوي",
+    "textTranslation": "ترجمة النصوص",
+    "documentTranslation": "ترجمة المستندات",
+    "websiteLocalization": "تبسيط المواقع",
+    "simultaneousInterpretation": "التفسير المتزامن"
+  },
+  "digitalServices": {
+    "title": "خدمات الرقمية",
+    "dataAnalysis": "تحليل البيانات",
+    "riskControl": "تحكم مخاطر ذكي",
+    "supplyChain": "إدارة السلسلة التوريدية",
+    "marketAnalysis": "تحليل اتجاهات السوق",
+    "salesAnalysis": "استخراج بيانات المبيعات",
+    "riskAssessment": "تقييم المخاطر الائتمانية",
+    "fraudDetection": "تنبيه اكتشاف الاحتيال"
+  },
+  "financialServices": {
+    "title": "خدمات مالية",
+    "crossBorderPayment": "الدفع عبر الحدود",
+    "taxCompliance": "الامتثال الضريبي",
+    "financialAccounting": "محاسبة مالية",
+    "financing": "خدمات التمويل",
+    "multiCurrency": "الدفع بالعملات المتعددة",
+    "exchangeRate": "إدارة مخاطر سعر الصرف",
+    "taxPlanning": "خطة التخطيط الضريبي",
+    "financialReports": "التقارير المالية عبر الحدود"
+  },
+  "login": {
+    "title": "تسجيل الدخول",
+    "username": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "rememberMe": "تذكرني",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟ سجل الآن",
+    "loginButton": "تسجيل الدخول"
+  },
+  "register": {
+    "title": "التسجيل",
+    "username": "اسم المستخدم",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "userType": "نوع المستخدم",
+    "individual": "مستخدم فردي",
+    "enterprise": "مستخدم شركات",
+    "institution": "مؤسسة تعليمية",
+    "haveAccount": "已有账号? 立即登录",
+    "registerButton": "تسجيل"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "common": {
+    "home": "Home",
+    "talentTraining": "Talent Training",
+    "enterpriseServices": "Enterprise Services",
+    "languageServices": "Language Services",
+    "digitalServices": "Digital Services",
+    "financialServices": "Financial Services",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "search": "Search",
+    "submit": "Submit",
+    "reset": "Reset",
+    "contactUs": "Contact Us",
+    "aboutUs": "About Us"
+  },
+  "home": {
+    "title": "China-Arab Cross-Border E-Commerce Platform",
+    "subtitle": "Language + Digital Intelligence + Finance + Risk Control",
+    "description": "Solving core pain points in Sino-Arab trade including language barriers, financial compliance, intelligent risk control, and data-driven decision making",
+    "features": "Core Features",
+    "talentTraining": "Talent Training",
+    "talentTrainingDesc": "Building a composite talent training system for China-Arab cross-border e-commerce",
+    "enterpriseServices": "Enterprise Services",
+    "enterpriseServicesDesc": "Providing comprehensive enterprise service solutions",
+    "languageServices": "Language Services",
+    "languageServicesDesc": "Professional Chinese-Arabic translation and localization services",
+    "digitalServices": "Digital Services",
+    "digitalServicesDesc": "Big data analysis and intelligent risk control solutions",
+    "financialServices": "Financial Services",
+    "financialServicesDesc": "Cross-border payment and tax compliance services",
+    "latestNews": "Latest News",
+    "successCases": "Success Cases"
+  },
+  "talentTraining": {
+    "title": "Talent Training",
+    "courses": "Course Categories",
+    "trainings": "Training Programs",
+    "learningManagement": "Learning Management",
+    "internship": "Internship & Employment",
+    "languageCourses": "Language Courses",
+    "ecommerceCourses": "E-commerce Courses",
+    "financeCourses": "Finance Courses",
+    "riskCourses": "Risk Control Courses"
+  },
+  "enterpriseServices": {
+    "title": "Enterprise Services",
+    "talentRecruitment": "Talent Recruitment",
+    "businessConsulting": "Business Consulting",
+    "projectMatching": "Project Matching",
+    "services": "Service Projects",
+    "requirements": "Requirements Posting",
+    "recruitment": "Recruitment Information"
+  },
+  "languageServices": {
+    "title": "Language Services",
+    "translation": "Translation Services",
+    "localization": "Localization Services",
+    "verification": "Language Verification",
+    "textTranslation": "Text Translation",
+    "documentTranslation": "Document Translation",
+    "websiteLocalization": "Website Localization",
+    "simultaneousInterpretation": "Simultaneous Interpretation"
+  },
+  "digitalServices": {
+    "title": "Digital Services",
+    "dataAnalysis": "Data Analysis",
+    "riskControl": "Intelligent Risk Control",
+    "supplyChain": "Supply Chain Management",
+    "marketAnalysis": "Market Trend Analysis",
+    "salesAnalysis": "Sales Data Mining",
+    "riskAssessment": "Credit Risk Assessment",
+    "fraudDetection": "Fraud Detection & Warning"
+  },
+  "financialServices": {
+    "title": "Financial Services",
+    "crossBorderPayment": "Cross-Border Payment",
+    "taxCompliance": "Tax Compliance",
+    "financialAccounting": "Financial Accounting",
+    "financing": "Financing Services",
+    "multiCurrency": "Multi-Currency Payment",
+    "exchangeRate": "Exchange Rate Risk Management",
+    "taxPlanning": "Tax Planning Solutions",
+    "financialReports": "Cross-Border Financial Reports"
+  },
+  "login": {
+    "title": "User Login",
+    "username": "Username",
+    "password": "Password",
+    "rememberMe": "Remember Me",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account? Register Now",
+    "loginButton": "Login"
+  },
+  "register": {
+    "title": "User Registration",
+    "username": "Username",
+    "email": "Email",
+    "phone": "Phone",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "userType": "User Type",
+    "individual": "Individual User",
+    "enterprise": "Enterprise User",
+    "institution": "Educational Institution",
+    "haveAccount": "Already have an account? Login Now",
+    "registerButton": "Register"
+  }
+}
