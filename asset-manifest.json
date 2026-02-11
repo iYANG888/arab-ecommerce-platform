@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Arab/static/css/main.83878a1e.css",
+    "main.js": "/Arab/static/js/main.44b8e79d.js",
+    "index.html": "/Arab/index.html",
+    "main.83878a1e.css.map": "/Arab/static/css/main.83878a1e.css.map",
+    "main.44b8e79d.js.map": "/Arab/static/js/main.44b8e79d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83878a1e.css",
+    "static/js/main.44b8e79d.js"
+  ]
+}
